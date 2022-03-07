@@ -1,0 +1,124 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
+
+
+
+h1 {
+
+    margin: 0 auto 0 auto;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 5.6em;
+    color: rgb(86, 211, 159);
+  
+
+}
+
+h2 {
+
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5rem;
+    color: rgb(86, 211, 159);
+}
+
+h3 {
+
+    font-family: 'Lexend Deca', sans-serif; 
+    color: rgb(86, 211, 159);
+
+}
+
+.top-container {
+    background-color: #e4ffef;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.middle-container {
+
+    margin: 200px 0;
+}
+
+.profilepic {
+
+    width: 20%;
+    border-radius: 100%;
+}
+
+
+hr {
+
+    border: dotted rgb(255, 145, 0) 6px;
+    border-bottom: none;
+    width: 7%;
+}
+
+
+.cloud-1 {
+
+    position: absolute;
+    right: 528px;
+    top: 240px;
+    width: 100px;
+
+}
+
+.cloud-2 {
+
+    position: absolute;
+    left: 470px;
+    top: 240px;
+    width: 0px;
+    
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+
+.matcha-1 {
+
+    float: left;
+    margin-right: 30px;
+}
+
+.matcha-2 {
+
+    float: right;
+    margin-left: 30px;
+}
+
+.paragraph-1 {
+
+    width: 30%;
+    margin: auto;
+    margin-bottom: 300px;
+}
+
+p {
+
+    line-height: 2;
+}
+
+.our-promise {
+
+    margin-top: 200px;
+}
+
+.touch-get {
+
+    margin-top: 200px;
+}
+
+
